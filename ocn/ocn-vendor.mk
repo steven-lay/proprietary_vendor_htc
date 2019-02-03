@@ -284,6 +284,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ocn/proprietary/vendor/bin/cnd:system/vendor/bin/cnd \
     vendor/htc/ocn/proprietary/vendor/bin/cnss-daemon:system/vendor/bin/cnss-daemon \
     vendor/htc/ocn/proprietary/vendor/bin/dpmQmiMgr:system/vendor/bin/dpmQmiMgr \
+    vendor/htc/ocn/proprietary/vendor/bin/energy-awareness:system/vendor/bin/energy-awareness \
     vendor/htc/ocn/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/htc/ocn/proprietary/vendor/bin/hdcp1prov:system/vendor/bin/hdcp1prov \
     vendor/htc/ocn/proprietary/vendor/bin/hvdcp_opti:system/vendor/bin/hvdcp_opti \
